@@ -1,0 +1,93 @@
+.Div{
+    background-color: pink;
+    background-size: auto;
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(9, 96, 124);
+}
+
+.h-1{
+    background-color: white;
+    color: rgb(29, 211, 205);
+    text-align: center; 
+    font-size: 100px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+} 
+
+.f-d{
+    padding-top: 30px;
+    color: white;
+    font-size: bold;
+}
+
+.P1{
+    padding: 20px;
+}
+
+.P2{
+    padding: 20px;
+}
+
+.in{
+    height: 30px;
+    width: 150px;
+    margin-top: 60px;
+    margin-left: 30px;
+  
+}
+
+.in:hover{
+    background-color: white;
+    color: rgba(103, 243, 226, 0.825);
+    border-color: white;
+}
+
+.love{
+    height: 80px;
+    width: 80px;
+    margin-top: 20px;
+}
+
+.link{
+    color: white;
+    text-decoration: underline;
+}
+
+.input{
+    border-style: 3px solid;
+    border-color: aqua;
+    box-shadow: 5px;
+}
+
+.input:hover{
+    border-style: 3px solid;
+    border-color: rgb(18, 205, 93);
+    box-shadow: 6px;
+}
+
+
+#result{
+    color: white;
+    text-align: center; 
+    font-size: 70px;
+    font-weight: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#advice{
+    background-color: pink;
+    color: white;
+    text-align: center; 
+    font-size: 70px;
+    font-weight: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
